@@ -1,9 +1,6 @@
 ### About The Build
 
-Ebay Marketplace is a Web3 marketplace of the Metaverse which is powered by ThirdWeb. You can purchase and sell your own NFTs and the cool part is - you can create an auction of your NFTs. It even has Live Search Functionality in the Home Screen.
-
-![Template Screenshot](Template.jpg?raw=true "Template Screenshot")
-![Listing Page Screenshot](Listing.jpg?raw=true "Listing Page Screenshot")
+MarketPlace3.0 is a Web3 marketplace of the Metaverse which is powered by ThirdWeb. 
 
 ## Next.js + Tailwind CSS
 
