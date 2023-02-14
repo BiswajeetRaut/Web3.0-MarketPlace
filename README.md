@@ -4,7 +4,7 @@ MarketPlace3.0 is a Web3 marketplace of the Metaverse which is powered by ThirdW
 
 ## Next.js + Tailwind CSS
 
-Next.js is a React Production Framework which gives the best developer experience with all the features for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+Next.js is a React Production Framework which gives the best developer experience with all the features for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. By using Next. js, we're able to do things like server-side rendering, which means the server reads through code and tells the browser what to display on the page. Server-side rendering creates faster, more versatile web applications
 
 ## How To Start
 
